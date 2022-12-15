@@ -1,7 +1,8 @@
-# freeprogramming(static web app)
+# freeprogramming
+#ststic web app
 #azure link : https://kind-cliff-0cbed1210.2.azurestaticapps.net/
 
 
-#freeprogramming(web app)
+#web app
 
 #azure link : https://freeprogramming.azurewebsites.net 
